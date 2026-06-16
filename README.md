@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nipuna Kahawatta</h1>
-<h3 align="center">A passionate Full Stack Developer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nipuna-m&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Nipuna-M&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -69,12 +69,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nipuna-m&show_icons=true&theme=radical" alt="Nipuna's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nipuna-m&theme=radical" alt="Nipuna's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nipuna-M&show_icons=true&theme=radical" alt="Nipuna's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nipuna-M&theme=radical" alt="Nipuna's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipuna-m&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nipuna-M&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -102,12 +102,3 @@
 </p>
 ```eof
 
-Here are the main changes I made:
-
-1.  **Centered Layout:** I centered most of the elements to make it look cleaner and more balanced on the GitHub profile page.
-2.  **About Me Section:** I structured your text into a standard `About Me` section with bullet points, making it easier to read. I also added a placeholder "fun fact" about Arduino based on your tools!
-3.  **Organized Tools:** I grouped your massive list of icons into categories (Frontend, Backend, Mobile, etc.) so it's not just one giant block of images. I also swapped some wordmark logos for the standard icons so they look more uniform.
-4.  **GitHub Stats:** I added placeholders for dynamic GitHub stats cards (total commits, streak, top languages). These are very popular and make profiles look active. *Note: Ensure your GitHub username in the URL (`username=nipuna-m`) is exactly correct for these to work.*
-5.  **Connect Badges:** I added a sleek badge for your email. If you have a LinkedIn or personal website, you can easily add them using the commented-out code in that section.
-
-How does this organized look work for you? Let me know if you want to add links to your social media or change any of the icons!
