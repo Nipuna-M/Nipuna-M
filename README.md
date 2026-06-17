@@ -100,5 +100,5 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me A Coffee" />
   </a>
 </p>
-```eof
+
 
